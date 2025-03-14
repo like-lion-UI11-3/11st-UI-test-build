@@ -7,11 +7,11 @@ export default defineConfig({
     rollupOptions: {
       input: {
         index: "index.html", // 기본 index.html
-        hyongju: "src/components/cha-hyongju/indext.html",
-        dongfa: "src/components/choi-donghwan/indext.html",
-        soonhyuk: "src/components/hong-soonhyuk/indext.html",
-        yerin: "src/components/hong-yerin/indext.html",
-        jisu: "src/components/kim-jisu/indext.html",
+        hyongju: "src/components/cha-hyongju/index.html",
+        dongfa: "src/components/choi-donghwan/index.html",
+        soonhyuk: "src/components/hong-soonhyuk/index.html",
+        yerin: "src/components/hong-yerin/index.html",
+        jisu: "src/components/kim-jisu/index.html",
       },
     },
   },
